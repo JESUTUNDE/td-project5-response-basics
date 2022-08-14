@@ -143,12 +143,13 @@ h2{
 
 .level3{
     background-color: #4d9aad;
+    /* padding: 5px; */
     
 }
 
 .level3i{
     margin-left: 950px;
-    background-color: #4d9aad;
+    /* background-color: #4d9aad; */
 
 
     
@@ -220,12 +221,14 @@ h2{
 }
 
 .level3lastp{
-    background-color: #4d9aad;
-    border-radius: 50px;
-    padding-bottom: 50px;
-    margin-bottom: 20px;
-    margin-top: 10px;
+    /* background-color: #4d9aad; */
+    /* border-radius: 40px; */
+    /* padding-bottom: 90px; */
+    /* margin-top: 10px; */
+    /* position: absolute; */
     /* padding-top: 50px; */
+    padding: 10px;
+    
 
     
 }
@@ -482,7 +485,10 @@ h2{
                     /* background-color: #4d9aad;
                     margin-left: 100px;
                     border-radius: 10px; */
-                    display: none;}
+                    display: none;
+                }
+
+                
 
             
 }
